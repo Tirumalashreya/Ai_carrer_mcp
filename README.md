@@ -1,0 +1,13 @@
+crewai
+langchain
+langchain-google-genai
+langchain-openai
+python-dotenv
+PyPDF2
+pdfplumber
+pymupdf<1.24.0
+pydantic
+fastapi
+uvicorn
+streamlit
+requests
