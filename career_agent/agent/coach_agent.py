@@ -1,4 +1,4 @@
-#coach_agent
+# career_agent/agent/coach_agent
 import os
 from dotenv import load_dotenv
 from langchain_groq import ChatGroq

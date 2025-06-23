@@ -1,4 +1,4 @@
-# utils/llm_config.py
+# resume_agent/utils/llm_config.py
 import os
 import time # Import time for potential retry delays
 

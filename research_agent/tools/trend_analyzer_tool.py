@@ -1,3 +1,4 @@
+#research_agent/tools/trend_analyzer_tool.py
 from langchain.tools import Tool
 from collections import Counter
 
